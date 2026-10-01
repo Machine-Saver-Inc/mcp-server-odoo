@@ -1,5 +1,23 @@
 # MCP Server for Odoo
 
+<!-- machine-saver-scope:start -->
+## Scope
+
+Machine Saver's fork of the upstream Odoo MCP server for evaluating and maintaining ERP integration changes.
+
+**Owner:** Machine-Saver-Inc. **Development area:** Business systems.
+
+## Ownership boundaries
+
+Upstream attribution, licensing and contribution rules remain authoritative. Machine Saver ERP configuration and credentials are not part of this public source fork.
+
+## Development tracking
+
+Track work in this repository's issues and pull requests. Cross-repository work is coordinated through the [Machine Saver development Projects](https://github.com/orgs/Machine-Saver-Inc/projects).
+
+Follow this repository's contribution instructions and preserve links to related product issues. Scope describes responsibility; release and deployment readiness require the repository's own evidence.
+<!-- machine-saver-scope:end -->
+
 [![CI](https://github.com/ivnvxd/mcp-server-odoo/actions/workflows/ci.yml/badge.svg)](https://github.com/ivnvxd/mcp-server-odoo/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/ivnvxd/mcp-server-odoo/branch/main/graph/badge.svg)](https://codecov.io/gh/ivnvxd/mcp-server-odoo)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
